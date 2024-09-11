@@ -1,0 +1,10 @@
+ipykernel
+numpy
+pandas
+matplotlib
+tensorflow
+pydot
+pydotplus
+graphviz
+tensorflow_datasets
+imageio
