@@ -9,3 +9,4 @@ graphviz
 tensorflow_datasets
 imageio
 scikit-learn
+tensorflow_docs
